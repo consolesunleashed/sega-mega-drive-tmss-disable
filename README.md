@@ -74,7 +74,7 @@ Here is a simple logic based PCB to disable the TMSS. I designed it based on a s
 
 ## Where to Buy?
 
-Soon.
+https://www.consolesunleashed.com/product/sega-mega-drive-tmss-logic-disable-mod-kit/
 
 ## Version History
 
