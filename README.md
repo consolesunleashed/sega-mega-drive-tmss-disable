@@ -1,3 +1,7 @@
+A collection of TMSS Disable mods for Sega Mega Drive / Sega Genesis.
+
+![My Image](Sega-Mega-Drive-TMSS-Disable-Main.png)
+
 # Sega Mega Drive TMSS ATtiny Disable
 
 Coded by Wurthless-Elektroniks and designed by Consoles Unleashed.
