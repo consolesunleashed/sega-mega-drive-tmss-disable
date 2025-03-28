@@ -59,7 +59,7 @@ Long version starts at v1.1 because of what is known as the clone problem in phi
 
 - v1.1 - 27/03/2025 (correct ATTINY footprint, /MRES connection on PCB and /MRES jumper added)
 
-# Sega Mega Drive TMSS Disable Logic Version
+# Sega Mega Drive TMSS Logic Disable
 
 Here is a simple logic based PCB to disable the TMSS. I designed it based on a schematic by Trimesh and put it here for completion.
 
