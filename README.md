@@ -44,6 +44,8 @@ There are two versions of this mod kit.
 
 2 - A long version that connects /MRES and includes a jumper to disable or enable the /MRES connection.
 
+![My Image](Sega-Mega-Drive-TMSS-Disable-Versions.png)
+
 ## Version History
 
 Long version starts at v1.1 because of what is known as the clone problem in philosophy.
