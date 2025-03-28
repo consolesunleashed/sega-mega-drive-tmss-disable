@@ -4,7 +4,7 @@ Coded by Wurthless-Elektroniks and designed by Consoles Unleashed.
 
 A collaboration no one asked for and no one wanted, brings you a device no one needs.
 
-The SEGA Mega Drive TMSS Disable. Catchiest nake ever.
+The SEGA Mega Drive TMSS Disable. Catchiest name ever.
 
 A quick solder board (QSB) PCB designed for Wurthless Elektroniks ATTINY code to disable TMSS in SEGA Mega Drive / Genesis consoles with no cuts or wires required.
 
