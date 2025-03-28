@@ -8,7 +8,7 @@ The SEGA Mega Drive TMSS Disable. Catchiest name ever.
 
 A quick solder board (QSB) PCB designed for Wurthless Elektroniks ATTINY code to disable TMSS in SEGA Mega Drive / Genesis consoles with no cuts or wires required.
 
-![My Image](Sega-Mega-Drive-TMSS-Disable.png)
+![My Image](Sega-Mega-Drive-TMSS-ATtiny-Disable.png)
 
 ## What does it do?
 
@@ -44,7 +44,7 @@ There are two versions of this mod kit.
 
 2 - A long version that connects /MRES and includes a jumper to disable or enable the /MRES connection.
 
-![My Image](Sega-Mega-Drive-TMSS-Disable-Versions.png)
+![My Image](Sega-Mega-Drive-TMSS-ATtiny-Disable-Versions.png)
 
 ## Version History
 
