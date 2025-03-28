@@ -1,4 +1,4 @@
-# Sega Mega Drive TMSS Disable
+# Sega Mega Drive TMSS ATtiny Disable
 
 Coded by Wurthless-Elektroniks and designed by Consoles Unleashed.
 
