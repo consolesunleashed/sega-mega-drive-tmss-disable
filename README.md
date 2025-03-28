@@ -59,23 +59,6 @@ Long version starts at v1.1 because of what is known as the clone problem in phi
 
 - v1.1 - 27/03/2025 (correct ATTINY footprint, /MRES connection on PCB and /MRES jumper added)
 
-# Sega Mega Drive TMSS Disable Logic Version
-
-Here is a simple logic based PCB to disable the TMSS. I designed it based on a schematic by Trimesh and put it here for completion.
-
-## Manufacturing
-
-- 0.8mm / 1mm / 1.2mm PCB thickness are all good. 1.6mm is unecessarily thick.
-- Blue PCB colour because Sonic the Hedgehog.
-
-## Where to Buy?
-
-Soon.
-
-## Version History
-
-- v1.0 - 03/02/2025
-
 ## Licence
 
 If you use this in any way, shape or form, you must include a link back to this repository and mention me by name on any sales pages and social media posts. Not only will this help me to keep designing mod kits and offering them to the community, but it is basic common courtesy as well. Don't be a douchebag. :)
