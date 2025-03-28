@@ -1,4 +1,4 @@
-A collection of TMSS Disable mods for Sega Mega Drive / Sega Genesis.
+A collection of TMSS Disable mods I designed for Sega Mega Drive / Sega Genesis.
 
 ![My Image](Sega-Mega-Drive-TMSS-Disable-Main.png)
 
