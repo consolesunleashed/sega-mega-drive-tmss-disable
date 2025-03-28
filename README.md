@@ -56,12 +56,13 @@ Long version starts at v1.1 because of what is known as the clone problem in phi
 
 ### Standard / Short
 
-- v1.0 - 10/02/2025 (wrong footprint for ATTINY chip and no /MRES connection)
-- v1.1 - 27/03/2025 (correct ATTINY footprint and /MRES pad added)
+- v1.0 - 10/02/2025 (wrong footprint for ATTINY chip, and no /MRES connection)
+- v1.1 - 27/03/2025 (correct ATTINY footprint, and /MRES pad added)
 
 ### Long
 
-- v1.1 - 27/03/2025 (correct ATTINY footprint, /MRES connection on PCB and /MRES jumper added)
+- v1.0 - 10/02/2025 (wrong footprint for ATTINY chip, no /MRES connection, and no longness)
+- v1.1 - 27/03/2025 (correct ATTINY footprint, /MRES connection on PCB, /MRES jumper added, and longness added)
 
 # Sega Mega Drive TMSS Logic Disable
 
