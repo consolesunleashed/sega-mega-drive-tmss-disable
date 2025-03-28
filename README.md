@@ -38,7 +38,7 @@ Use the code available https://github.com/wurthless-elektroniks/sega-tmss-killer
 
 ## Where to Buy?
 
-Soon.
+https://www.consolesunleashed.com/product/sega-mega-drive-tmss-attiny-disable-mod-kit/
 
 ## Mod Kit Variations
 
