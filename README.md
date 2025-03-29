@@ -16,15 +16,15 @@ A quick solder board (QSB) PCB designed for Wurthless Elektroniks ATTINY code to
 
 ## What does it do?
 
-Soon.
+Details soon.
 
 ## What are the benefits?
 
-Soon.
+Details soon.
 
 ## Are there any drawbacks?
 
-Soon.
+Details soon. I am sure there are some.
 
 ## Manufacturing
 
