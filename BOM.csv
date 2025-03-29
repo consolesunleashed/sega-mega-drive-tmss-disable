@@ -1,0 +1,11 @@
+"ATtiny Version",,,,,,,
+"Part","MPN","Brand","Value","Case/Size","Amount","Digikey","Mouser"
+"Microcontroller","ATTINY85-20SU","Atmel",,"SOIC-8 (Wide)",1,"ATTINY85-20SU-ND","556-ATTINY85-20SUR"
+"Transistor NPN","BC817,235","Nexperia USA Inc.",,"SOT-23-3",1,"1727-1978-1-ND","771-BC817235"
+"Capacitor",,,"1uF / Higher than +5v","0805",1,,
+,,,,,,,
+"Logic Version",,,,,,,
+"Part","MPN","Brand","Value","Case/Size","Amount","Digikey","Mouser"
+"Logic","74HC4066D,653 ","Nexperia USA Inc.","74HC4066","SOIC-14",1,"1727-2811-1-ND","771-74HC4066D-T "
+"Resistor",,,"10k","0805",1,,
+"Capacitor",,,"1uF / Higher than +5v","0805",1,,
