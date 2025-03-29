@@ -56,7 +56,7 @@ Long version starts at v1.1 because of what is known as the clone problem in phi
 
 ### Standard / Short
 
-- v1.0 - 10/02/2025 (wrong footprint for ATTINY chip, and no /MRES connection)
+- v1.0 - 10/02/2025 (wrong footprint for ATTINY chip, no /MRES connection, and no longness)
 - v1.1 - 27/03/2025 (correct ATTINY footprint, and /MRES pad added)
 
 ### Long
