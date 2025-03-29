@@ -38,7 +38,7 @@ Use the code available https://github.com/wurthless-elektroniks/sega-tmss-killer
 
 ## Where to Buy?
 
-https://www.consolesunleashed.com/product/sega-mega-drive-tmss-attiny-disable-mod-kit/
+https://www.consolesunleashed.com/product/sega-mega-drive-tmss-disable-attiny-mod-kit/
 
 ## Mod Kit Variations
 
@@ -75,7 +75,7 @@ Here is a simple logic based PCB to disable the TMSS. I designed it based on a s
 
 ## Where to Buy?
 
-https://www.consolesunleashed.com/product/sega-mega-drive-tmss-logic-disable-mod-kit/
+https://www.consolesunleashed.com/product/sega-mega-drive-tmss-disable-logic-mod-kit/
 
 ## Version History
 
