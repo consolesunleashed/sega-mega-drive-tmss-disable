@@ -70,7 +70,7 @@ Long version starts at v1.1 because of what is known as the clone problem in phi
 
 # Sega Mega Drive TMSS Disable Logic Based Version
 
-Here is a simple logic based PCB to disable the TMSS. I designed it based on a schematic by Trimesh and put it here for completion.
+Here is a simple logic based PCB to disable the TMSS. I designed it based on a schematic by Trimesh and put it here for completion. Not recomended over the ATtiny version.
 
 ## Manufacturing
 
@@ -80,6 +80,10 @@ Here is a simple logic based PCB to disable the TMSS. I designed it based on a s
 ## Where to Buy?
 
 https://www.consolesunleashed.com/product/sega-mega-drive-tmss-disable-logic-mod-kit/
+
+## Mod Kit Variations
+
+Details soon.
 
 ## Version History
 
