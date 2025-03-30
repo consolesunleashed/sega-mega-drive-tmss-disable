@@ -2,7 +2,7 @@ A collection of TMSS Disable mods I designed for Sega Mega Drive / Sega Genesis.
 
 ![My Image](Sega-Mega-Drive-TMSS-Disable-Main.png)
 
-# Sega Mega Drive TMSS Disable ATtiny
+# Sega Mega Drive TMSS Disable ATtiny Based Version
 
 Coded by Wurthless-Elektroniks and designed by Consoles Unleashed.
 
@@ -54,17 +54,21 @@ There are two versions of this mod kit.
 
 Long version starts at v1.1 because of what is known as the clone problem in philosophy.
 
-### Standard / Short
+### QSB Short
 
 - v1.0 - 10/02/2025 (wrong footprint for ATTINY chip, no /MRES connection, and no longness)
 - v1.1 - 27/03/2025 (correct ATTINY footprint, and /MRES pad added)
 
-### Long
+### QSB Long
 
 - v1.0 - 10/02/2025 (wrong footprint for ATTINY chip, no /MRES connection, and no longness)
 - v1.1 - 27/03/2025 (correct ATTINY footprint, /MRES connection on PCB, /MRES jumper added, and longness added)
 
-# Sega Mega Drive TMSS Disable Logic
+### Basic
+
+- TBC
+
+# Sega Mega Drive TMSS Disable Logic Based Version
 
 Here is a simple logic based PCB to disable the TMSS. I designed it based on a schematic by Trimesh and put it here for completion.
 
@@ -79,7 +83,14 @@ https://www.consolesunleashed.com/product/sega-mega-drive-tmss-disable-logic-mod
 
 ## Version History
 
+### Basic
+
 - v1.0 - 03/02/2025
+- v1.1 - 30/03/2025
+
+### QSB
+
+- v1.0 - 31/03/2025
 
 ## Licence
 
