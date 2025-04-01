@@ -1,4 +1,4 @@
-A collection of TMSS Disable mods I designed for Sega Mega Drive / Sega Genesis. Four versions added. One more to be added very soon. A design for every occasion.
+A collection of TMSS Disable mods I designed for Sega Mega Drive / Sega Genesis. Five different versions. A design for every occasion.
 
 ![My Image](Sega-Mega-Drive-TMSS-Disable-Main.png)
 
@@ -12,7 +12,7 @@ The SEGA Mega Drive TMSS Disable. Catchiest name ever.
 
 A quick solder board (QSB) PCB designed for Wurthless Elektroniks ATTINY code to disable TMSS in SEGA Mega Drive / Genesis consoles with no cuts or wires required.
 
-![My Image](Sega-Mega-Drive-TMSS-ATtiny-Disable.png)
+![My Image](Sega-Mega-Drive-TMSS-Disable-Attiny.png)
 
 ## What does it do?
 
@@ -28,8 +28,8 @@ Details soon. I am sure there are some.
 
 ## Manufacturing
 
-- 0.8mm PCB thickness.
-- Castellated vias are optional. There are only six half-cut vias and the board is thin which generally doesn't result in torn up copper platting. A little cleanup is usually necessary to remove debris from the half-cut vias.
+- 0.8mm / 1mm PCB thickness for QSB versions. 0.8mm / 1mm / 1.2mm PCB thickness for basic version are all good. 1.6mm is unecessarily thick.
+- Castellated vias are optional for QSB versions. There are only six half-cut vias and the board is thin which generally doesn't result in torn up copper platting. A little cleanup is usually necessary to remove debris from the half-cut vias.
 - Blue PCB colour because Sonic the Hedgehog.
 
 ## Programming
@@ -42,13 +42,15 @@ https://www.consolesunleashed.com/product/sega-mega-drive-tmss-disable-attiny-mo
 
 ## Mod Kit Variations
 
-There are two versions of this mod kit.
+There are three versions of this mod kit.
 
-1 - A short version with a pad to wire /MRES.
+1 - A basic PCB requiring wires to install.
 
-2 - A long version that connects /MRES and includes a jumper to disable or enable the /MRES connection.
+2 - A short quick solder board version with a pad to wire /MRES.
 
-![My Image](Sega-Mega-Drive-TMSS-ATtiny-Disable-Versions.png)
+3 - A long quick solder board version that connects /MRES and includes a jumper to disable or enable the /MRES connection.
+
+![My Image](Sega-Mega-Drive-TMSS-Disable-Attiny-Versions.png)
 
 ## Version History
 
@@ -66,15 +68,18 @@ Long version starts at v1.1 because of what is known as the clone problem in phi
 
 ### Basic
 
-- TBC
+- v1 - 
 
 # Sega Mega Drive TMSS Disable Logic Based Version
 
 Here is a simple logic based PCB to disable the TMSS. I designed it based on a schematic by Trimesh and put it here for completion. Not recomended over the ATtiny version.
 
+![My Image](Sega-Mega-Drive-TMSS-Disable-Logic.png)
+
 ## Manufacturing
 
-- 0.8mm / 1mm / 1.2mm PCB thickness are all good. 1.6mm is unecessarily thick.
+- 0.8mm / 1mm PCB thickness for QSB version. 0.8mm / 1mm / 1.2mm PCB thickness for basic version are all good. 1.6mm is unecessarily thick.
+- Castellated vias are optional for QSB version. There are only six half-cut vias and the board is thin which generally doesn't result in torn up copper platting. A little cleanup is usually necessary to remove debris from the half-cut vias.
 - Blue PCB colour because Sonic the Hedgehog.
 
 ## Where to Buy?
@@ -83,7 +88,13 @@ https://www.consolesunleashed.com/product/sega-mega-drive-tmss-disable-logic-mod
 
 ## Mod Kit Variations
 
-Details soon.
+There are two versions of this mod kit.
+
+1 - A basic PCB requiring wires to install.
+
+2 - A quick solder board version requiring only two wires to install.
+
+![My Image](Sega-Mega-Drive-TMSS-Disable-Logic-Versions.png)
 
 ## Version History
 
